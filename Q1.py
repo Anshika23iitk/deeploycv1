@@ -37,3 +37,8 @@ for idx, img in enumerate(images, start=1):
 plt.tight_layout()
 plt.show()
 
+C:\\Users\\ADMIN\\Downloads
+C:\\Users\\ADMIN
+https://static.vecteezy.com/system/resources/previews/029/214/620/non_2x/hand-holding-colorful-arrangements-flowers-bright-and-sunny-day-with-simple-aesthetic-romantic-vibes-perfect-for-wedding-greeting-card-flower-card-and-more-photo.jpg'
+'https://i.pinimg.com/736x/1f/e7/e5/1fe7e58662e627bb8f974abf8e5265bc.jpg'
+C:\\Users\\ADMIN\\OneDrive\\Pictures\\Screenshots\\Screenshot 2024-12-17 180621.png
